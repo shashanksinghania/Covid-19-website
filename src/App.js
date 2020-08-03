@@ -25,6 +25,7 @@ function App() {
     getData();
   },[]);
 
+  // dropdown event change handler
   const onCountryChange = (event) => {
     const newCountry = event.target.value;
     setSelectedCountry(newCountry);
