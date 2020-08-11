@@ -20,4 +20,4 @@ function InfoBox(props) {
     )
 }
 
-export default InfoBox
+export default InfoBox;
