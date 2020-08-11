@@ -20,4 +20,8 @@ function InfoBox(props) {
     )
 }
 
+<<<<<<< HEAD
 export default InfoBox;
+=======
+export default InfoBox
+>>>>>>> 0918e9012289426b76f0d87f36f20fe9e7db2560
